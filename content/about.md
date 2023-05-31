@@ -10,7 +10,7 @@ hideDate: true
 
 <div align="center">
 	<p>
-        Yoshitaka Furuya has some roles in his life ; Engineer, Researcher and Photographer.aa
+        Yoshitaka Furuya has some roles in his life ; Engineer, Researcher and Photographer.
 	</p>
 	<p>
 		This site is a portfolio of his photograph.
