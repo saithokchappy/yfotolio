@@ -1,0 +1,76 @@
+baseURL: https://saithokchappy.github.io/yfotolio/ # todo: change site url.
+title: Yoshitaka Furuya # todo: change site name.
+defaultContentLanguage: 'en'
+theme: eternity
+googleAnalytics: '' # todo: set your analytics id.
+
+params:
+  image: /banner.jpg # static/
+  logo: banner.jpg # todo: add your custom logo to static/
+  subtitle: This site is portfolio of Yoshitaka Furuya as a photographer # todo: change default subtitle for your website.
+  copyright: All rights reserved. # todo: set your copyright type.
+  author: Yoshitaka Furuya # todo: set your full name.
+  dontShowSource: true # please, do not do this :)
+  portfolio:
+    columns:
+      desktop:
+        vertical: 4
+        horizonal: 3
+        default: 3
+      mobile:
+        vertical: 3
+        horizonal: 2
+        archive: 3
+        default: 1
+  socials:
+    # todo: change these links.
+    # - icon: 'far fa-envelope fa-lg'
+    #   url: 'mailto:eternity@bora.sh'
+    #   landing: true
+    # - icon: 'fab fa-github fa-lg'
+    #   url: 'https://github.com/boratanrikulu/eternity'
+    #   landing: true
+    # - icon: 'fab fa-instagram fa-lg'
+    #   url: 'https://www.instagram.com/y.chappy/'
+    # - icon: 'fab fa-linkedin-in fa-lg'
+    #   url: 'https://linkedin.bora.sh/in/eternity'
+  homepage: "/vertical" # default:work. homepage link, mostly same with menu.main[0]
+  specialPages:
+    - work
+    - archive
+  bypassWelcomePage: false # redirects "/" to "homepage" when it's true.
+  disableWelcomePageBackground: false # disables the background image on the homepage
+  plausible: '' # todo: set your plausible id.
+  disableRadius: false
+  moveIt: false  # Moves Title and Meta info down, only visible when scroll.
+  disableAlwaysResize: false
+
+markup:
+  defaultMarkdownHandler: goldmark
+  goldmark:
+    renderer:
+      unsafe: true
+
+taxonomies:
+  tag: tags
+
+permalinks:
+  work: ":filename/"
+
+menu:
+  main:
+    - name: work
+      url: /work/
+      weight: 1
+    - name: vertical
+      url: /tags/vertical/
+      weight: 2
+    - name: horizonal
+      url: /tags/horizonal/
+      weight: 3
+    - name: archive
+      url: /tags/archive/
+      weight: 4
+    - name: about
+      url: /about/
+      weight: 5
