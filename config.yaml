@@ -3,7 +3,7 @@ title: Yoshitaka Furuya # todo: change site name.
 defaultContentLanguage: 'en'
 theme: eternity
 googleAnalytics: '' # todo: set your analytics id.
-canonifyurls:true 
+
 
 params:
   image: /banner.jpg # static/
