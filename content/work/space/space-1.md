@@ -6,7 +6,7 @@ title: galaxy 1
 date: 2023-05-01
 tags:
 - space
-# hideExif: true
+hideExif: true
 ---
 
 <!-- ## Markdown
