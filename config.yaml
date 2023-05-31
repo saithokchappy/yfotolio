@@ -19,9 +19,9 @@ params:
         horizonal: 3
         default: 3
       mobile:
-        vertical: 3
+        vertical: 2
         horizonal: 2
-        archive: 3
+        archive: 2
         default: 1
   socials:
     # todo: change these links.
