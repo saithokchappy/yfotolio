@@ -20,7 +20,7 @@ params:
         default: 3
       mobile:
         vertical: 2
-        horizonal: 2
+        horizonal: 1
         archive: 2
         default: 1
   socials:
