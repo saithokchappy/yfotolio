@@ -9,4 +9,5 @@ tags:
 # - work # homepage
 - archive # all posts
 - horizonal
+hideExif: true
 ---
