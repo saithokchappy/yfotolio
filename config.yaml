@@ -2,7 +2,7 @@ baseURL: https://ychappy-fotograf.com # todo: change site url.
 title: Yoshitaka Furuya # todo: change site name.
 defaultContentLanguage: 'en'
 theme: eternity
-googleAnalytics: '' # todo: set your analytics id.
+googleAnalytics: 'G-R2NJB7FQ3P' # todo: set your analytics id.
 
 
 params:
