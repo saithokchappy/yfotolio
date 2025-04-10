@@ -39,6 +39,15 @@ Omotesando - Tokyo
 ,
 [jump to the work](/square-1/)
 
+- **Honorable mention**
+,
+[The International Photography Awards](https://photoawards.com/winner/zoom.php?eid=8-1717147909-24)
+,
+Los Angeles - CA
+,
+2024
+,
+[jump to the work](/horizonal_21/)
 
 ### Contact
 
