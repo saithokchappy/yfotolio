@@ -9,7 +9,7 @@ tags:
 # hideExif: true
 ---
 
-## Photography for Exhibision
+## Photography for Exhibition
 
 グループ出展 Joint Exhibision, [**FUJIFILM生誕祭 特別企画写真展 「私たちのFUJIFILM」**][link]
 

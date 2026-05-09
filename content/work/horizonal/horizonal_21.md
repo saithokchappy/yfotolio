@@ -3,7 +3,7 @@ weight: 21
 images:
 - /images/vascular_network.jpg
 # multipleColumn: true
-title:
+title: Vascular Network
 date: 2025-04-10
 tags:
 - work # homepage
