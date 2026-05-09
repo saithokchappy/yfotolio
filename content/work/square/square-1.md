@@ -6,7 +6,6 @@ date: 2024-02-12
 tags:
 - archive # all posts
 - square
-- work
 # hideExif: true
 ---
 

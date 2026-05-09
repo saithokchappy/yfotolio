@@ -53,3 +53,4 @@ Los Angeles - CA
 
 - Mail: yoshifuruya19[at]gmail.com
 - Instagram: [@y.chappy](https://www.instagram.com/y.chappy/)
+- base shop:[ychappy-buyshop](https://ychappy.buyshop.jp)

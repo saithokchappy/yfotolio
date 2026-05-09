@@ -35,7 +35,7 @@ params:
     #   url: 'https://www.instagram.com/y.chappy/'
     # - icon: 'fab fa-linkedin-in fa-lg'
     #   url: 'https://linkedin.bora.sh/in/eternity'
-  homepage: "/vertical" # default:work. homepage link, mostly same with menu.main[0]
+  homepage: "/work" # default:work. homepage link, mostly same with menu.main[0]
   specialPages:
     - work
     - archive

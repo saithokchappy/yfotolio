@@ -7,7 +7,6 @@ date: 2022-05-04
 tags:
 - archive # all posts
 - vertical
-- work
 hideExif: true
 ---
 
